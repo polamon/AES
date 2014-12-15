@@ -1,7 +1,7 @@
 AES
 ===
 
-sBox linear analysis by FU ERDONG
+sBox linear analysis by FU ERDONG (5120369017)
 
 Using GPU to accelerate (CUDA).
 
