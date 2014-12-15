@@ -3,6 +3,8 @@ AES
 
 sBox linear analysis by FU ERDONG (5120369017)
 
+Any problem please feel free to contact me by fuerdong.polar@gmail.com
+
 Using GPU to accelerate (CUDA).
 
 PS. Sorry for not being able to type in Chinese in Linux.
