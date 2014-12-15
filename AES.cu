@@ -1,5 +1,5 @@
 /*
-	file: AES.cpp
+	file: AES.cu
 	BY: FU ERDONG
 */
 
