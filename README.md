@@ -1,13 +1,12 @@
 AES
 ===
 
-sBox linear analysis by FU ERDONG (5120369017)
+sBox linear analysis by 付尔东 (5120369017)
 
-Any problem please feel free to contact me by fuerdong.polar@gmail.com
+polar@sjtu.edu.cn
 
 Using GPU to accelerate (CUDA).
 
-PS. Sorry for not being able to type in Chinese in Linux.
 
 Environment:
   Operating system: ubuntu 14.04 LTS
@@ -22,5 +21,5 @@ Reference:
 CUDA downloads: https://developer.nvidia.com/cuda-downloads
 CUDA installing guide: http://docs.nvidia.com/cuda/cuda-getting-started-guide-for-linux/index.html#axzz3LzFl1VuR
 CUDA-capable GPUs: https://developer.nvidia.com/cuda-gpus
-  ATTENTION: only computer with suitble GPU could run this code.
+注意：只有nvidia的支持的显卡才能使用CUDA框架。具体哪些型号可以请参考：https://developer.nvidia.com/cuda-gpus
 
